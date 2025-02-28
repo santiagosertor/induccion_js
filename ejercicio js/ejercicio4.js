@@ -15,3 +15,5 @@ let mayor= filter(array,function(n){
         return n;
     }else console.log("los numeros no corresponde ");
 })
+
+console.log(mayor);
