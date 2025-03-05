@@ -1,0 +1,9 @@
+ { 
+    "nombre":"Santiago",
+    "edad": 19,
+    "ciudad": "santander",
+    "nacionalidad":"colombiano",
+    "estadocivil": "soltero"
+    
+}
+
